@@ -12,8 +12,8 @@ public class UserController {
     //http://localhost:8080/users
     public UserController() {
         // Добавлять пользователей.
-        users.add(new User("Egor", 21));
-        users.add(new User("NeEgor", 22));
+        users.add(new User("Georgiy", 23));
+        users.add(new User("NeNetNet", 27));
     }
 
     @GetMapping
